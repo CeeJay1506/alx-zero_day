@@ -1,2 +1,1 @@
-My first readme
-How to be up to date
+I'm a ALX Student in Software Enginerring
